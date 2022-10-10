@@ -44,19 +44,11 @@ Show users how to use the software.
 Be specific.
 Use appropriate formatting when showing code snippets.
 
-## How to test the software
-
-If the software includes automated tests, detail how to run those tests.
-
 ## Known issues
 
-Document any known significant shortcomings with the software.
+Nothing yet.
 
 ## Getting help
-
-Instruct users how to get help with this software; this might include links to an issue tracker, wiki, mailing list, etc.
-
-**Example**
 
 If you have questions, concerns, bug reports, etc, please file an issue in this repository's Issue Tracker.
 
