@@ -1,62 +1,42 @@
 
 ----
 
-# Project Title
+# Jobs Web Scrapper
 
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 ![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/svt/open-source-project-template)
 [![REUSE status](https://api.reuse.software/badge/github.com/svt/open-source-project-template)](https://api.reuse.software/info/github.com/svt/open-source-project-template)
 
 
-**Description**:  Put a meaningful, short, plain-language description of what
-this project is trying to accomplish and why it matters.
-Describe the problem(s) this project solves.
-Describe how this software can improve the lives of its audience.
+**Description**:  
+In simple words, Jobs Web Scrapper is an open source web scrapper which gets all the open positions from the career pages of the biggest companies.
+Have you ever searched for the job in IT industry? 
+Aren`t you tired of opening lots of tabs with the "careers" pages of different companies? 
+The project is aiming to ease your life by providing (in a single file) the list of new job offers from a number of diverse reliable sites. With the help of this program you get access to the needed information in a much shorter time than usual.
 
-Suggestions of things to include:
+**Technology stack**: 
+The program is written with the use of Python programming language. It could be used both as an individual program and as a part of the other project. 
 
-- **Technology stack**: Indicate the technological nature of the software, including primary programming language(s) and whether the software is intended as standalone or as a module in a framework or other ecosystem.
-- **Status**:  Alpha, Beta, 1.1, etc.
- It's OK to write a sentence, too. The goal is to let interested people know where this project is at. This is also a good place to link to the [CHANGELOG](CHANGELOG.md).
-- **Links to production or demo instances**
-- Describe what sets this apart from related-projects.
- Linking to another doc or page is OK if this can't be expressed in a sentence or two.
-
-
-**Screenshot**: If the software has visual components, place a screenshot after the description; e.g.,
-
-![Photo: Encore - at a glance / SVT / CC-BY-SA 4.0](https://github.com/svt/open-source-project-template/blob/main/screenshot.jpeg)
-<figcaption>Photo: Encore - at a glance / SVT / CC-BY-SA 4.0.</figcaption>
-
+**Status**:  Alpha
+The program is ready for the work, however, it needs further testing and interface set-up.[CHANGELOG](CHANGELOG.md).
 
 ## Requirements
 
-Describe any dependencies that must be installed for this software to work.
-This includes programming languages, databases or other storage mechanisms, build tools, frameworks, and so forth.
-If specific versions of other software are required, or known not to work, call that out.
+The programming language Python should be installed in order to execute the project. Additionally, library bs4 for BeautifulSoup should be installed for all parts of the program to work correctly.
 
 ## Installation
 
-Detailed instructions on how to install, configure, and get the project running.
-This should be frequently tested to ensure reliability. Alternatively, link to
-a separate [INSTALLATION](docs/INSTALLATION.md) document.
-
-Simple example:
+The project may be installed with the use of such commands:
 
 `$ pip install PROJECT`
 
 `$ npm install PROJECT --save`
-
-`$ any other command`
 
 
 ### Quick start instructions
 
 Describe the fastest possible way to get the project running.
 
-## Configuration
-
-If the software is configurable, describe it in detail, either here or in other documentation to which you link.
 
 ## Usage
 
@@ -101,11 +81,6 @@ List the main license of the project
 
 This project is licensed under the Creative Commons Zero v1.0 Universal License - see the [LICENSE](LICENSE) file for details
 
-The SVT Open Source Template Project was made possible by:
-
-[CFPB Open Source Project Template](https://github.com/cfpb/open-source-project-template)
-
-
 Most assets released under Creative Commons CC0-1.0 except for
 
 SECURITY.md template:  
@@ -120,12 +95,12 @@ License: [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ----
 
-## Primary Maintainer
+## Primary Maintainers
 
-Name and git-account for primary maintainer/s:
+Primary maintainers:
 
-Example:
-[The maintainer/s](https://github.com/)  
+[Yonatan](https://github.com/yonatanholdings)  
+[VelDia](https://github.com/VelDia)
 
 ## Credits and references
 
