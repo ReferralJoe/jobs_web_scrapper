@@ -6,16 +6,15 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [1.1.0] - 2022-05-29
+## [1.0.0] - 2022-10-10
 
 ### CHANGED
-- Update most templates, fixed typos, removed bash script, added project linter, fix license err.
+- Update the python files.
 
-## [1.0.0] - 2021-09-13
+## [Alpha] - 2022-09-13
 
 ### Added
 - Initial 1.0.0 baseline.
-- Added SemVer versioning to project.
 
 ### Deprecated
 - Nothing.
