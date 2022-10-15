@@ -1,9 +1,6 @@
 # Development
 
-Here you can put instructions on how to get started with Development.
-This should be as simple and clear as can be.
-
-Example:
+Here are simple guidelines on how to start developing Jobs Web Scrapper:
 
 1. Clone the repository
 
@@ -11,7 +8,4 @@ Example:
 git clone  
 ```
 
-2. In the folder X, install the plugin to your local repository
-
-
-and so on...
+2. Start developing
