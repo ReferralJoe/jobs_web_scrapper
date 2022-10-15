@@ -9,13 +9,21 @@
 
 
 **Description**:  
-In simple words, Jobs Web Scrapper is an open source web scrapper which gets all the open positions from the career pages of the biggest companies.
+Jobs Web Scrapper is an open source web scrapper which gets all the open positions from the career pages of numerous companies. In simple words, it aggregates all open positions in one website, job seekers are able to find their next position easier and faster.
+
+Firstly, this project is created to help referraljoe.com to solve the data scattering issue of open positions. 
 Have you ever searched for the job in IT industry? 
 Aren`t you tired of opening lots of tabs with the "careers" pages of different companies? 
-The project is aiming to ease your life by providing (in a single file) the list of new job offers from a number of diverse reliable sites. With the help of this program you get access to the needed information in a much shorter time than usual.
+The project is aiming to ease your life by providing the list of new job offers from a number of diverse reliable sites. With the help of this program you get access to the needed information in a much shorter time, than usual.
+
+Moreover, in the nearest future this project will support any ATS that are used by the tech industry!
+
+Feel free to check our website referraljoe.com to see how Jobs Web Scrapper is used in practice.
 
 **Technology stack**: 
 The program is written with the use of Python programming language. It could be used both as an individual program and as a part of the other project. 
+The entrypoint to the program gets an input of a company's website URL and the program returns all open positions.
+The program identifies the ATS and runs the specific ATS adapter, the output has the same format for any ATS.
 
 **Status**:  Alpha
 The program is ready for the work, however, it needs further testing and interface set-up.[CHANGELOG](CHANGELOG.md).
@@ -23,26 +31,6 @@ The program is ready for the work, however, it needs further testing and interfa
 ## Requirements
 
 The programming language Python should be installed in order to execute the project. Additionally, library bs4 for BeautifulSoup should be installed for all parts of the program to work correctly.
-
-## Installation
-
-The project may be installed with the use of such commands:
-
-`$ pip install PROJECT`
-
-`$ npm install PROJECT --save`
-
-
-### Quick start instructions
-
-Describe the fastest possible way to get the project running.
-
-
-## Usage
-
-Show users how to use the software.
-Be specific.
-Use appropriate formatting when showing code snippets.
 
 ## Known issues
 
@@ -69,8 +57,6 @@ General instructions on how to Develop for the project should be stated with a l
 
 ## License
 
-List the main license of the project
-
 This project is licensed under the Creative Commons Zero v1.0 Universal License - see the [LICENSE](LICENSE) file for details
 
 Most assets released under Creative Commons CC0-1.0 except for
@@ -93,12 +79,6 @@ Primary maintainers:
 
 [Yonatan](https://github.com/yonatanholdings)  
 [VelDia](https://github.com/VelDia)
-
-## Credits and references
-
-1. Projects that inspired you
-2. Related projects
-3. Books, papers, talks, or other sources that have meaningful impact or influence on this project
 
 Thanks to:
 * [CFPB Open Source Project Template](https://github.com/cfpb/open-source-project-template)
