@@ -25,8 +25,8 @@ The program is written with the use of Python programming language. It could be 
 The entrypoint to the program gets an input of a company's website URL and the program returns all open positions.
 The program identifies the ATS and runs the specific ATS adapter, the output has the same format for any ATS.
 
-**Status**:  Alpha
-The program is ready for the work, however, it needs further testing and interface set-up.[CHANGELOG](CHANGELOG.md).
+**Status**:  1.0.0
+The program is ready for the work, however, it needs further testing and addition of new .[CHANGELOG](CHANGELOG.md).
 
 ## Requirements
 
@@ -42,11 +42,13 @@ If you have questions, concerns, bug reports, etc, please file an issue in this 
 
 ## Getting involved
 
-This section should detail why people should get involved and describe key areas you are
-currently focusing on; e.g., trying to get feedback on features, fixing certain bugs, building
-important pieces, etc.
+If you want to help the project grow, you may contribute to it, see the details in [CONTRIBUTING](docs/CONTRIBUTING.adoc).
 
-General instructions on _how_ to contribute should be stated with a link to [CONTRIBUTING](docs/CONTRIBUTING.adoc).
+Open task list:
+- [ ] Add new adapters for other sites (companies` job offer pages);
+- [ ] Test the program by hand;
+- [ ] Write additional program for testing;
+- [ ] Report any found mistakes;
 
 
 ## Development
