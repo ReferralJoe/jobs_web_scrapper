@@ -71,11 +71,6 @@ Open task list:
 - [ ] Write additional program for testing;
 - [ ] Report any found mistakes;
 
-
-## Development
-
-General instructions on how to Develop for the project are listed in [DEVELOPMENT](docs/DEVELOPMENT.md).
-
 ----
 
 ## License
