@@ -74,7 +74,7 @@ Open task list:
 
 ## Development
 
-General instructions on how to Develop for the project should be stated with a link to [DEVELOPMENT](docs/DEVELOPMENT.md), or could be merged in [CONTRIBUTING](docs/CONTRIBUTING.adoc).
+General instructions on how to Develop for the project are listed in [DEVELOPMENT](docs/DEVELOPMENT.md).
 
 ----
 
