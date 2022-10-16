@@ -80,11 +80,11 @@ License: [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)
 Primary maintainers:
 
 [Yonatan](https://github.com/yonatanholdings)  
-[VelDia](https://github.com/VelDia)
 
 Thanks to:
 * [CFPB Open Source Project Template](https://github.com/cfpb/open-source-project-template)
 * [Keep A Changelog](https://keepachangelog.com/)
 * [Contributor Covenant](https://www.contributor-covenant.org/)
 * [IEEE Open Source Maintainers Manual](https://opensource.ieee.org/community/manual/)
+* [VelDia](https://github.com/VelDia)
 
