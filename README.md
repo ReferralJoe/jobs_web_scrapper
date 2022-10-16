@@ -26,7 +26,7 @@ The entrypoint to the program gets an input of a company's website URL and the p
 The program identifies the ATS and runs the specific ATS adapter, the output has the same format for any ATS.
 
 **Status**:  1.0.0
-The program is ready for the work, however, it needs further testing and addition of new .[CHANGELOG](CHANGELOG.md).
+The program is ready for use, however, it needs further testing and addition of new ATS adapters.[CHANGELOG](CHANGELOG.md).
 
 ## Requirements
 
