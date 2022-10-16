@@ -55,9 +55,9 @@ git clone https://github.com/ReferralJoe/jobs_web_scrapper.git
 ```
 cd ~/jobs_web_scrapper/
 ```
-5. Use the pull command to ensure that your master branch is up-to-date:
+5. Use the pull command to ensure that your main branch is up-to-date:
 ```
-git pull https://github.com/ReferralJoe/jobs_web_scrapper.git master
+git pull https://github.com/ReferralJoe/jobs_web_scrapper.git main
 ```
 6. Now you are ready to start exploring the project!
 
