@@ -40,6 +40,25 @@ Nothing yet.
 
 If you have questions, concerns, bug reports, etc, please file an issue in this repository's Issue Tracker.
 
+## Installation
+
+In order to install the project you have to follow such steps:
+1. Open main page of the project (you are already here).
+2. Copy the “HTTPS clone URL” link using the clipboard icon at the bottom right of the page’s side-bar.
+3. Open Git, and from the home directory, use the command git clone, then paste the link from your clipboard, or copy the command and link from below:
+```
+git clone https://github.com/ReferralJoe/jobs_web_scrapper.git
+```
+4. Change directory for the newly created ~/jobs_web_scrapper:
+```
+cd ~/jobs_web_scrapper/
+```
+5. Use the pull command to ensure that your master branch is up-to-date:
+```
+git pull https://github.com/ReferralJoe/jobs_web_scrapper.git master
+```
+6. Now you are ready to start exploring the project!
+
 ## Getting involved
 
 If you want to help the project grow, you may contribute to it, see the details in [CONTRIBUTING](docs/CONTRIBUTING.adoc).
