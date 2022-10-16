@@ -42,6 +42,8 @@ If you have questions, concerns, bug reports, etc, please file an issue in this 
 
 ## Installation
 
+Before the start download needed software: [Python](https://www.python.org/downloads/) and [BeautifulSoup4](https://www.crummy.com/software/BeautifulSoup/bs4/download/).
+
 In order to install the project you have to follow such steps:
 1. Open main page of the project (you are already here).
 2. Copy the “HTTPS clone URL” link using the clipboard icon at the bottom right of the page’s side-bar.
